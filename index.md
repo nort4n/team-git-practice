@@ -1,4 +1,4 @@
 # Header
 
 > It's sunny outside
-> **JUSTIN BIEBER**, 2022
+> **Justin Bieber**, 2022
