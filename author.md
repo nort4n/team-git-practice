@@ -1,1 +1,1 @@
-The author is a Popstar
+The author already died.
